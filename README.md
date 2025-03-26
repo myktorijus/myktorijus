@@ -22,7 +22,7 @@ insights.
 <ul>
   <li>Languages: SQL, Python</li>
   <li>Databases: Google BigQuery, SQL Server, Oracle</li>
-  <li>Visualization: Power BI, Google Spreadsheets Excel, </li>
+  <li>Visualization: Power BI, Google Spreadsheets Excel</li>
 </ul>
 
 <h2>👋🏻 Connect with Me</h2>
