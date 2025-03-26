@@ -1,4 +1,4 @@
-<h1>👋 Hello, I'm [Your Name]</h1>
+<h1>👋 Hello, I'm Mykolas.</h1>
 
 <p><strong>Aspiring Data Analyst | Former IT Consultant</strong></p>
 
