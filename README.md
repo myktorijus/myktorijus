@@ -1,7 +1,5 @@
 <h1>👋 Hello, I'm Mykolas.</h1>
 
-<p><strong>Aspiring Data Analyst | Former IT Consultant</strong></p>
-
 <p>
 IT Consultant transitioning into Data Analytics, specializing in data
 analysis, reporting, systems development and integrations. Skilled in SQL, Power
