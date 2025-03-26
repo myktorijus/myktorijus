@@ -9,14 +9,14 @@ insights.
 
 <h2>🔍 What I Do</h2>
 <ul>
-  <li>Query and analyze data using SQL</li>
-  <li>Develop Power BI dashboards for data visualization and reporting</li>
-  <li>Work with databases for data extraction and transformation</li>
-  <li>Data analysis and reporting using Spreadsheets</li>
+  <li>Query and analyze data using SQL;</li>
+  <li>Develop Power BI dashboards for data visualization and reporting;</li>
+  <li>Work with databases for data extraction and transformation;</li>
+  <li>Data analysis and reporting using Spreadsheets.</li>
 </ul>
 
 <h2>📚 Projects</h2>
-<p>Welcome to my portfolio! Here, I showcase projects in <strong>data visualization, analytics, and reporting.</strong></p>
+<p>Welcome to my portfolio! Here, I showcase projects in data visualization, analytics, and reporting.</p>
 
 <h2>🛠️ Tools</h2>
 <ul>
