@@ -16,7 +16,7 @@ insights.
 </ul>
 
 <h2>Projects</h2>
-<p>Feel free to explore my public repositories! There you'll find my projects in data visualization, analytics, and reporting.</p>
+<p>Feel free to explore my public repositories! There you'll find my projects in data visualization, analytics, and reporting. I'll guide you there: <a href="https://github.com/myktorijus?tab=repositories">Repositories</a></p>
 
 <h2>Tools</h2>
 <ul>
