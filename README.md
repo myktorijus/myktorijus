@@ -16,7 +16,11 @@ insights.
 </ul>
 
 <h2>Projects</h2>
-<p>Feel free to explore my public repositories! There you'll find my projects in data visualization, analytics, and reporting. I'll guide you there: <a href="https://github.com/myktorijus?tab=repositories">Repositories</a></p>
+<ul>
+<li>Feel free to explore my public repositories! There you'll find my projects in data visualization, analytics, and reporting. 
+  <br>I'll guide you there: <a href="https://github.com/myktorijus?tab=repositories">Repositories</a>
+</li>
+</ul>
 
 <h2>Tools</h2>
 <ul>
@@ -26,9 +30,7 @@ insights.
 </ul>
 
 <h2>Connect with Me</h2>
-<p>
-  <a href="https://www.linkedin.com/in/mykolas-savickas/">LinkedIn</a>
-</p>
-<p>
-  <a href="mailto:mykolas.savickas1@gmail.com">Email</a>
-</p>
+<ul>
+  <li><a href="https://www.linkedin.com/in/mykolas-savickas/">LinkedIn</a></li>
+  <li><a href="mailto:mykolas.savickas1@gmail.com">Email</a></li>
+</ul>
