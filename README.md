@@ -1,18 +1,18 @@
-<h1>👋 Hello, I'm Mykolas.</h1>
+<h1>👋 Hello, I'm Mykolas</h1>
 
 <p>
-IT Consultant transitioning into Data Analytics, specializing in data
-analysis, reporting, systems development and integrations. Skilled in SQL, Power
-BI, Sheets, Python and ERP systems with a strong focus on transforming data into actionable
+IT Consultant transitioning into Data Analytics. <br>I'm proficient in SQL, Power
+BI, Spreadsheets, Python and ERP systems with a strong focus on transforming data into actionable
 insights.
 </p>
 
 <h2>What I Do</h2>
 <ul>
-  <li>Query and analyze data using SQL;</li>
+  <li>Query, manipulate and analyze data using SQL;</li>
   <li>Develop Power BI dashboards for data visualization and reporting;</li>
   <li>Work with databases for data extraction and transformation;</li>
-  <li>Data analysis and reporting using Spreadsheets.</li>
+  <li>Data analysis and reporting using Spreadsheets;</li>
+  <li>Communicate technical work clearly to business stakeholders.</li>
 </ul>
 
 <h2>Projects</h2>
