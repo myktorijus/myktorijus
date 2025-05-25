@@ -28,5 +28,7 @@ insights.
 <h2>Connect with Me</h2>
 <p>
   <a href="https://www.linkedin.com/in/mykolas-savickas/">LinkedIn</a>
+</p>
+<p>
   <a href="mailto:mykolas.savickas1@gmail.com">Email</a>
 </p>
